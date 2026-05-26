@@ -173,7 +173,7 @@ Provides insights into:
 ![Executive Overview](ExecutiveOverview.png)
 
 ### Performance Trend Analysis
-![Performance Trends](PerformanceTrends.png)
+![Performance Trends](Performance Trends.png)
 
 ### Product Performance Analysis
 ![Product Performance](ProductPerformance.png)
